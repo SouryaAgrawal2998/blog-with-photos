@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: cornsilk;
+}
+div{
+    margin-top: 15px;
+}
+.ims{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.sstyle{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: white;
+    
+}
